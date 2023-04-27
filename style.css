@@ -51,3 +51,18 @@ main {
 h1, h2, h3 {
   font-weight: normal;
 }
+
+.portfolio{
+  margin: auto;
+  max-width: 500px;
+  padding: 20px;
+  background-color: #a483e6;
+  color:#fff;
+  border: 1px solid #ddd;
+  box-shadow: 0px 0px 10px #ddd;
+}
+#link {
+  color: #834bf2;
+}
+  
+  
