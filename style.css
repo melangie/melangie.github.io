@@ -8,11 +8,11 @@ body {
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #f2f2f2;
+  background-color: #ccdaff;
 }
 
 header {
-  background-color: #333;
+  background-color: #8ba8f0;
   color: #fff;
   padding: 20px;
 }
@@ -56,13 +56,13 @@ h1, h2, h3 {
   margin: auto;
   max-width: 500px;
   padding: 20px;
-  background-color: #a483e6;
+  background-color: #e83351;
   color:#fff;
   border: 1px solid #ddd;
   box-shadow: 0px 0px 10px #ddd;
 }
-#link {
-  color: #834bf2;
+.link {
+  color: #c0d1fc;
 }
   
   
